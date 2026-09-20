@@ -25,9 +25,9 @@ Python · SQL · statistics · machine learning · business analysis frameworks
 | [ts-academy-journey](#) | Weekly public log of my Data Science fellowship — what worked, what broke |
 
 ### Where I've been
-Tech4Africans Scholar (Business Analysis) · TS Academy Data Science Fellow · IAENG Member ·AIChe Memeber . Cowrywise Campus Ambassador
+Tech4Africans Scholar (Business Analysis) · TS Academy Data Science Fellow · IAENG Member · AIChE Member . Cowrywise Campus Ambassador
 
 ### The short version
 ⚗️ by degree. 📊 by decision. A chemical engineer who codes asks *why* before *how* — that's the whole point.
 
-**Find me:** favourdavidemeka . [LinkedIn](https://www.linkedin.com/in/favour-david-767b072b3) · [Email](davidfavouremeka@gmail.com)
+**Find me:** [LinkedIn](https://www.linkedin.com/in/favour-david-767b072b3) · [Email](mailto:davidfavouremeka@gmail.com)
