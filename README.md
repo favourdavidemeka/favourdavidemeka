@@ -30,4 +30,4 @@ Tech4Africans Scholar (Business Analysis) · TS Academy Data Science Fellow · I
 ### The short version
 ⚗️ by degree. 📊 by decision. A chemical engineer who codes asks *why* before *how* — that's the whole point.
 
-**Find me:** [LinkedIn](https://www.linkedin.com/in/favour-david-767b072b3) · [Email](mailto:davidfavouremeka@gmail.com)
+**Find me:** [LinkedIn](https://www.linkedin.com/in/favour-david-767b072b3) · [Substack](https://davidfavour2.substack.com) . [Email](mailto:davidfavouremeka@gmail.com)
